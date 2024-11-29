@@ -1,0 +1,14 @@
+:root{
+--bg:#343045;
+--fc:#8176AF;
+
+
+
+
+}
+html,
+body{
+    background-color: var(--bg);
+
+
+}
