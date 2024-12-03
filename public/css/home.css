@@ -1,0 +1,47 @@
+.im1 ,.im {
+color: var(--fc);
+
+
+
+}
+.start{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.home{
+    color:white;
+     width: 465px;
+    padding: 50px; 
+}
+.fl{
+   
+    font-weight: 700;
+    font-size: 46px;
+}
+.photo{
+    border-radius: 100px 100px 100px 240px;
+    background-color: rgba(24, 23, 23, 0.419);
+    overflow: hidden;
+    padding: 10px;
+    border: 1px solid black;
+}
+.photo img{
+     border-radius: 100px 100px 100px 240px; 
+}.build{
+  background: linear-gradient(to right, #8176af, #c0b7e8);
+  height: 48px;
+  width: 214px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+ 
+}.arrbu{
+     position: relative;
+      top: 140px; 
+          display: inline-flex;
+    left: -87px;
+       align-items: center;
+}
